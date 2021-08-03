@@ -1,5 +1,5 @@
-Dmin = 1.2
-Dmax = 1.6
+Dmin = 1.4
+Dmax = 1.4
 Dstep = 0.005
 
 BtoA = 0.529177210903
